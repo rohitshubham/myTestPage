@@ -1,7 +1,18 @@
-<html>
-<body>
-Hello World
-<h1>
-    <a href="rohitshubham.github.io/resume/index.html">Click here for resume!</a>
-</h1>
-</body>
+---
+layout: default
+---
+
+
+{% include career-profile.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}
+
+{% include projects.html %}
+
+{% include publications.html %}
+
+{% include skills.html %}
