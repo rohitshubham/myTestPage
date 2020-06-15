@@ -10,6 +10,8 @@ redirect_from:
 
 I am a student pursuing *Erasmus Mundus Joint Master Degree* in [Security and Cloud Computing](https://secclo.eu). Currently, I am completing my first year of Masters at [Aalto University](https://www.aalto.fi) and will move to [Eurecom](https://www.eurecom.fr/en) in France for my second year specialization in Big Data Security.
 
+Before starting my masters, I worked as full-stack engineer at Factset Research systems. I recieved my bachelor's degree in computer science from National Institute of Technology Patna. 
+
 Research Interests
 ===
 My research interests include IoT systems, cloud computing and distributed systems. I also like researching the security and resilience of these systems.   
