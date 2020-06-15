@@ -10,7 +10,9 @@ redirect_from:
 
 I am currently pursuing *Erasmus Mundus Joint Master Degree* in [Security and Cloud Computing](https://secclo.eu). Presently, I am completing my first year of Masters at [Aalto University](https://www.aalto.fi) and will move to [Eurecom](https://www.eurecom.fr/en) in France for my second-year specialization in Big Data Security.
 
-For my on-going degree, I have been awarded EMJMD scholarship. Before starting my masters, I worked as a full-stack engineer at Factset Research Systems. I received my bachelor's degree in 2016 in Computer Science and Engineering from [National Institute of Technology Patna](http://www.nitp.ac.in). 
+I am also working as a Research Assistant under Prof. Hong-Linh Truong and have been researching reliability in Industrial IoT systems. Before that, I briefly worked as Research Assistant under Prof. Tuomas Aura on the implementation of EAP-TLS 1.3 PSK based authentication. 
+
+I was awarded the EMJMD scholarship for my master's degree. Before starting my masters, I worked as a full-stack engineer at Factset Research Systems. I received my bachelor's degree in 2016 in Computer Science and Engineering from [National Institute of Technology Patna](http://www.nitp.ac.in). 
 
 Research Interests
 ===
