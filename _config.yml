@@ -84,7 +84,7 @@ author:
   name             : "Rohit Raj"
   avatar           : "Profile.jpg"
   bio              : "Researcher, Student. Security and Cloud Computing Enthusiast"
-  location         : "Helsinki Finland"
+  location         : "Helsinki, Finland"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.co.in/citations?user=npuplVgAAAAJ&hl=en"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  rohitraj94
+  linkedin         :  rohit-raj-0194a315
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -185,6 +185,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -233,6 +237,14 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
