@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a student pursuing *Erasmus Mundus Joint Master Degree* in [Security and Cloud Computing](https://secclo.eu). Currently, I am completing my first year of Masters at [Aalto University](https://www.aalto.fi) and will move to [Eurecom](https://www.eurecom.fr/en) in France for my second year specialization in Big Data Security.
+I am currently pursuing *Erasmus Mundus Joint Master Degree* in [Security and Cloud Computing](https://secclo.eu). Presently, I am completing my first year of Masters at [Aalto University](https://www.aalto.fi) and will move to [Eurecom](https://www.eurecom.fr/en) in France for my second-year specialization in Big Data Security.
 
-For my on-going degree, I have been awarded EMJMD scholarship. Before starting my masters, I worked as full-stack engineer at Factset Research systems. I recieved my bachelor's degree in Computer Science and Engineeringfrom [National Institute of Technology Patna](http://www.nitp.ac.in). 
+For my on-going degree, I have been awarded EMJMD scholarship. Before starting my masters, I worked as a full-stack engineer at Factset Research Systems. I received my bachelor's degree in 2016 in Computer Science and Engineering from [National Institute of Technology Patna](http://www.nitp.ac.in). 
 
 Research Interests
 ===
@@ -30,4 +30,4 @@ Hobbies
 
 I like reading books and novels and I am especially fond of high-fantasy series such as Lord of the Rings or Eragon. I am also reader of few Mangas and japanese light novels. More recently, I have dabbed into Chinese [Wuxia's](https://en.wikipedia.org/wiki/Wuxia). 
 
-I also like playing Table-tennis and binging tv series.
+I also like playing Table-tennis and binging random tv series.
