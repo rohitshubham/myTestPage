@@ -41,6 +41,7 @@ Skills
   * _Misc_: Terraform, Cloud Functions, Vagrant
 * Security Vulnerability Enumeration and Analysis
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
