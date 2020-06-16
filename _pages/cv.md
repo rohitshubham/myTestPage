@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech in Computer Science and Engineering, National Institute of Technology Patna, 2016
+* M.S. in Security and Cloud Computing (_SECCLO_), Aalto University, Finland and Eurecom France, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2020 - Aug 2020: Research Assistant
+  * Reliable Industrial Internet of Things(IIoT) systems
+  * Supervisor: Professor Hong-Linh Truong
+  * Aalto University, Finland
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2020 - Apr 2020: Research Assistant
+  * EAP-TLS 1.3 Pre-Shared Key mode authentication implementation
+  * Supervisor: Dr. Mohit Sethi and Prof. Tuomas Aura
+  * Aalto University, Finland
+
+* Jun 2016 - Mar 2019: Software Engineer I/II/III
+  * Full-Stack software developer
+  * Duties included developing, managing and maintaining highly scalable Research Management Stack.
+  * Factset Research Systems, Hyderabad, India
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, C#, shell, C++
+* Cloud Computing Technologies:
+  * _Orchestration_: Kubernetes, Docker Swarm
+  * _Brokers_: Kafka, Mosquitto(MQTT) and RabbitMQ
+  * _Stream Processing_: Apache Spark
+  * _Misc_: Terraform, Cloud Functions, Vagrant
+* Security Vulnerability Analysis
 
 Publications
 ======
