@@ -39,7 +39,7 @@ Skills
   * _Brokers_: Kafka, Mosquitto(MQTT) and RabbitMQ
   * _Stream Processing_: Apache Spark
   * _Misc_: Terraform, Cloud Functions, Vagrant
-* Security Vulnerability Analysis
+* Security Vulnerability Enumeration and Analysis
 
 Publications
 ======
