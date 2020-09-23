@@ -50,7 +50,7 @@ Publications
 ======
 * <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Raj, Rohit, et al. “Feature Based Video Stabilization Based on Boosted HAAR Cascade and Representative Point Matching Algorithm.” <i>Image and Vision Computing</i>, vol. 101, Sept. 2020, p. 103957. <i>ScienceDirect</i>, doi:10.1016/j.imavis.2020.103957.
-</div></ul>
+</div>
   <ul></ul>
   <ul></ul>
   <ul></ul>
