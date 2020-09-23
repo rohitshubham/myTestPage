@@ -11,13 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.Tech in Computer Science and Engineering, National Institute of Technology Patna, 2016
-* M.S. in Security and Cloud Computing (_SECCLO_), Aalto University, Finland and Eurecom France, 2021
+* M.S. in Security and Cloud Computing ([_SECCLO_](https://secclo.eu)), 
+  * [Eurecom](https://eurecom.fr/en), France. Specialization in Big Data Security, 2020-2021 
+  * [Aalto](https://aalto.fi) University, Finland, 2019-2021
+
+* B.Tech in Computer Science and Engineering, [National Institute of Technology Patna](https://nitp.ac.in), 2016
 
 Work experience
 ======
 * May 2020 - Aug 2020: Research Assistant
-  * Reliable Industrial Internet of Things(IIoT) systems
+  * Security and elasticity dependencies in Industrial IoT networks
   * Supervisor: Professor Hong-Linh Truong
   * Aalto University, Finland
 
@@ -33,12 +36,13 @@ Work experience
   
 Skills
 ======
-* Languages: Python, C#, shell, C++
+* Languages: Python, C#, shell, C, Latex, Java, Javascript
 * Cloud Computing Technologies:
   * _Orchestration_: Kubernetes, Docker Swarm
-  * _Brokers_: Kafka, Mosquitto(MQTT) and RabbitMQ
+  * _Brokers_: Kafka, Mosquitto/VerneMQ(MQTT) and RabbitMQ
   * _Stream Processing_: Apache Spark
-  * _Misc_: Terraform, Cloud Functions, Vagrant
+  * _Databases_: MongoDB, SQL Server, Cassandra
+  * _Misc_: Terraform, Cloud Functions, Vagrant, Openshift, Prometheus, Grafana
 * Security Vulnerability Enumeration and Analysis
 
 
