@@ -48,22 +48,14 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+  "Feature based video stabilization based on boosted HAAR Cascade and representative point matching algorithm"
+  </ul>
+  <ul><div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">Raj, Rohit, et al. “Feature Based Video Stabilization Based on Boosted HAAR Cascade and Representative Point Matching Algorithm.” <i>Image and Vision Computing</i>, vol. 101, Sept. 2020, p. 103957. <i>ScienceDirect</i>, doi:10.1016/j.imavis.2020.103957.</div>
+</div></ul>
+  <ul></ul>
+  <ul></ul>
+  <ul></ul>
+  <ul></ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
