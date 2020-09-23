@@ -48,11 +48,8 @@ Skills
 
 Publications
 ======
-  <ul>
-  "Feature based video stabilization based on boosted HAAR Cascade and representative point matching algorithm"
-  </ul>
-  <ul><div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
-  <div class="csl-entry">Raj, Rohit, et al. “Feature Based Video Stabilization Based on Boosted HAAR Cascade and Representative Point Matching Algorithm.” <i>Image and Vision Computing</i>, vol. 101, Sept. 2020, p. 103957. <i>ScienceDirect</i>, doi:10.1016/j.imavis.2020.103957.</div>
+* <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
+  <div class="csl-entry">Raj, Rohit, et al. “Feature Based Video Stabilization Based on Boosted HAAR Cascade and Representative Point Matching Algorithm.” <i>Image and Vision Computing</i>, vol. 101, Sept. 2020, p. 103957. <i>ScienceDirect</i>, doi:10.1016/j.imavis.2020.103957.
 </div></ul>
   <ul></ul>
   <ul></ul>
