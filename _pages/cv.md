@@ -38,7 +38,7 @@ Skills
 ======
 * Languages: Python, C#, shell, C, Latex, Java, Javascript
 * Cloud Computing Technologies:
-  * _Orchestration_: Kubernetes, Docker Swarm
+  * _Orchestration_: Kubernetes, Docker-compose
   * _Brokers_: Kafka, Mosquitto/VerneMQ(MQTT) and RabbitMQ
   * _Stream Processing_: Apache Spark
   * _Databases_: MongoDB, SQL Server, Cassandra
