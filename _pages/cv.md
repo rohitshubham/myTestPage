@@ -45,12 +45,15 @@ Skills
   * _Misc_: Terraform, Cloud Functions, Vagrant, Openshift, Prometheus, Grafana
 * Security Vulnerability Enumeration and Analysis
 
+Patents
+====
+
+* <b>Rohit Raj</b>, Pooshkar Rajiv, Prabhat Kumar; “A system for Visual Fatigue Monitoring, Detection and Prevention System for Visual Display Unit User". Indian Patent pp. 25197; 06-July-2018; Docket Number: 48698/201811022652.
+
 
 Publications
 ======  
 * <div class="csl-entry"><b>Rohit Raj</b>, Pooshkar Rajiv, et al. “Feature Based Video Stabilization Based on Boosted HAAR Cascade and Representative Point Matching Algorithm.” <i>Image and Vision Computing</i>, vol. 101, Sept. 2020, p. 103957. <i>ScienceDirect</i>, doi:10.1016/j.imavis.2020.103957.</div>
-
-
 
 * <div class="csl-entry"><b>Rohit Raj</b> Akash Sinha, et al. “Intelligent Gateway for Data-Centric Communication in Internet of Things.” <i>International Conference on Innovative Computing and Communications</i>, edited by Deepak Gupta et al., Springer, 2021, pp. 1083–91. <i>Springer Link</i>, doi:10.1007/978-981-15-5148-2_92.</div>
 
@@ -60,10 +63,6 @@ Publications
 
 * <div class="csl-entry">Prabhat Kumar, Jyoti Prakash Singh, Rajni Kant Raman, <b>Rohit Raj</b>, “Privacy Enhancement in E-Mail Clients.” <i>Information Technology: New Generations</i>, edited by Shahram Latifi, Springer International Publishing, 2016, pp. 1299–302. <i>Springer Link</i>, doi:10.1007/978-3-319-32467-8_118.</div>
 
-Patents
-====
-
-* <b>Rohit Raj</b>, Pooshkar Rajiv, Prabhat Kumar; “A system for Visual Fatigue Monitoring, Detection and Prevention System for Visual Display Unit User". Indian Patent pp. 25197; 06-July-2018; Docket Number: 48698/201811022652.
 
 Awards
 ====
@@ -73,4 +72,5 @@ Awards
 Projects
 ====
 
-* Most of my projects are open-sourced and can be viewed on my [github profile](https://github.com/rohitshubham).
+* Check them out [here](/projects) 
+* Some other minor projects are are open-sourced and can be viewed on my [github profile](https://github.com/rohitshubham).
