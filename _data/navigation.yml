@@ -14,7 +14,10 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+ 
+  - title: "Projects"
+    url: /projects/   
+
   - title: "News"
     url: /news/
     
