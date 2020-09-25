@@ -35,7 +35,7 @@ author_profile: true
         * This project came out as an intiative to improve the open-source library for C# and is inspired by one of the popular TextRank implementations for [Python](https://github.com/davidadamojr/TextRank).
 
 ---
-#### References:
+### References:
 
 [1] C. Hu, W. Bao, D. Wang and F. Liu, "Dynamic Adaptive DNN Surgery for Inference Acceleration on the Edge," IEEE INFOCOM 2019 - IEEE Conference on Computer Communications, Paris, France, 2019, pp. 1423-1431, doi: 10.1109/INFOCOM.2019.8737614.
 
