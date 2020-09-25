@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Security and Cloud Computing ([_SECCLO_](https://secclo.eu)), 
+* M.S. in Security and Cloud Computing ([_SECCLO_](https://secclo.eu)), 2019-2021
   * [Eurecom](https://eurecom.fr/en), France. Specialization in Big Data Security, 2020-2021 
   * [Aalto](https://aalto.fi) University, Finland, 2019-2021
 
