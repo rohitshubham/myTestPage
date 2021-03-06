@@ -9,8 +9,17 @@ author_profile: true
 
 ## Some selected projects:
 
+* __Harvesting Tables in the Wild__
+    * Status: _September/2020 - Feb/2021_ 
+    * Code: [LINK](https://github.com/D2KLab/HarvestingTablesInTheWild/)
+    * About: 
+        * Pipeline to harvest high-quality tables from multiple sources such as web and common crawl.
+        * Implemented highly-scalable distributed architecture using cloud-native tecnologies including multi-modal databases (ArangoDB) and message brokers (Kafka). 
+
+<br/>
+
 * __Security-Elasticity dependency analytics for Industrial IoT Infrastructure__
-    * Status: _June/2020 - Ongoing_ 
+    * Status: _June/2020 - Aug/2020_ 
     * Prototype to be released soon ;)
     * About: 
         * This framework is able to perform cross-layer cross -system dependency analytics inside an IIoT network.
